@@ -1,0 +1,70 @@
+.title {
+    position: absolute;
+    color: white;
+    margin-top: 25px;
+    margin-left: 25px;
+}
+
+.inputgroup {
+    position: absolute;
+    border: solid 2px white;
+    border-radius: 100px;
+    float: left;
+    margin-left: 600px;
+    margin-top: 150px;
+    padding-bottom: 5px;
+}
+
+input{ 
+    margin-left: 10px;
+    border-radius: 100px;}
+
+#search {
+    color: white;
+    margin: 5px;
+    padding: 10px;
+       border: solid 2px white;
+    border-radius: 100px;
+}
+
+#back {
+    margin-top: 50px;
+    margin-right: 0px;
+    height: 1500px;
+    width: 100%;
+    background-color: rgb(59, 68, 89);
+}
+
+
+
+#back ul {
+    float: left;
+    list-style-type: none;
+    padding-top: 80px;
+}
+
+#back li a {
+    text-decoration: none;
+    color: white;
+}
+
+.active {
+    border: solid 2px white;
+    border-radius: 100px;
+    width: 130px;
+    margin-left: -30px;
+    padding-left: 30px;
+}
+
+.content {
+    margin-left: 150px;
+    width: 80%;
+    height: 1500px;
+    background-color: white;
+    z-index: 4;
+    margin-right: 25px;
+    -webkit-box-shadow: 10px 10px 84px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 10px 10px 84px 0px rgba(0,0,0,0.75);
+box-shadow: 10px 10px 84px 0px rgba(0,0,0,0.75);
+}
+
